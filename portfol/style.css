@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    overflow-x: hidden;
+
+
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.home-img img {
+
+    min-width: 50%;
+    max-height: 300px;
+    border: 5px solid;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.card-body img {
+    min-width: 50%;
+    max-height: 200px;
+}
